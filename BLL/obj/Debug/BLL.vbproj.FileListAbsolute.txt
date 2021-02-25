@@ -1,0 +1,14 @@
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\BLL\bin\Debug\BLL.dll
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\BLL\bin\Debug\BLL.pdb
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\BLL\bin\Debug\BLL.xml
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\BLL\bin\Debug\DAL.dll
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\BLL\bin\Debug\DAL.pdb
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\BLL\bin\Debug\DAL.xml
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\BLL\obj\Debug\BLL.vbprojAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\BLL\obj\Debug\BLL.vbproj.GenerateResource.cache
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\BLL\obj\Debug\BLL.vbproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\BLL\obj\Debug\BLL.vbproj.CopyComplete
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\BLL\obj\Debug\BLL.dll
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\BLL\obj\Debug\BLL.xml
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\BLL\obj\Debug\BLL.pdb
