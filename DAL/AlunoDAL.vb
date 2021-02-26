@@ -74,7 +74,21 @@ Public Class AlunoDAL
         Return tab
     End Function
 
-  
+    Public Function selecionar() As DataTable
+        Dim tab As DataTable
+        Try
+            Using cmd As New SqlCommand
+
+                cmd.CommandText = "select a.alu_codigo, a.alu_ra, p.pess_nome from Aluno a INNER JOIN Pessoa p ON p.pess_codigo = a.pess_codigo"
+                Dim con As New Conexao
+                tab = con.retdadosTab(cmd)
+            End Using
+
+        Catch ex As Exception
+            Throw ex
+        End Try
+        Return tab
+    End Function
 
     'excluir
     Public Sub excluir(codigo As Integer)

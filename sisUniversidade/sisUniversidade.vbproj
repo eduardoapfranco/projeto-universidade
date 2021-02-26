@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5DEEFC43-41A1-4260-8EB7-FE9B02E9F5C2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>sisUniversidade.My.MyApplication</StartupObject>
+    <RootNamespace>sisUniversidade</RootNamespace>
+    <AssemblyName>sisUniversidade</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>sisUniversidade.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>sisUniversidade.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>E9F2F0B8AE6B764F5F183A6A8984AED144897CA3</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>sisUniversidade_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MatriculaConsulta.Designer.vb">
+      <DependentUpon>MatriculaConsulta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MatriculaConsulta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Matricula.Designer.vb">
+      <DependentUpon>Matricula.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Matricula.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DisciplinaConsulta.Designer.vb">
+      <DependentUpon>DisciplinaConsulta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DisciplinaConsulta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funcoes.vb" />
+    <Compile Include="Curso.Designer.vb">
+      <DependentUpon>Curso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Curso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CursoConsulta.Designer.vb">
+      <DependentUpon>CursoConsulta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CursoConsulta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Disciplina.Designer.vb">
+      <DependentUpon>Disciplina.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Disciplina.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfessorConsulta.Designer.vb">
+      <DependentUpon>ProfessorConsulta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ProfessorConsulta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Professor.Designer.vb">
+      <DependentUpon>Professor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Professor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aluno.Designer.vb">
+      <DependentUpon>Aluno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Aluno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlunoConsulta.Designer.vb">
+      <DependentUpon>AlunoConsulta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AlunoConsulta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal.Designer.vb">
+      <DependentUpon>Principal.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Pessoa.Designer.vb">
+      <DependentUpon>Pessoa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Pessoa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PessoaConsulta.Designer.vb">
+      <DependentUpon>PessoaConsulta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PessoaConsulta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Curso.resx">
+      <DependentUpon>Curso.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MatriculaConsulta.resx">
+      <DependentUpon>MatriculaConsulta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matricula.resx">
+      <DependentUpon>Matricula.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DisciplinaConsulta.resx">
+      <DependentUpon>DisciplinaConsulta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CursoConsulta.resx">
+      <DependentUpon>CursoConsulta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Disciplina.resx">
+      <DependentUpon>Disciplina.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfessorConsulta.resx">
+      <DependentUpon>ProfessorConsulta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Professor.resx">
+      <DependentUpon>Professor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aluno.resx">
+      <DependentUpon>Aluno.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AlunoConsulta.resx">
+      <DependentUpon>AlunoConsulta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal.resx">
+      <DependentUpon>Principal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pessoa.resx">
+      <DependentUpon>Pessoa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PessoaConsulta.resx">
+      <DependentUpon>PessoaConsulta.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="sisUniversidade_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.vbproj">
+      <Project>{0c0034ce-92de-4117-a975-4b7e23d64502}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Relatórios\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

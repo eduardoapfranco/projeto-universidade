@@ -52,7 +52,7 @@ Public Class CursoBLL
         Me.ValorCredito = 0
     End Sub
 
-    Public Sub New(codigo As Integer, nome As Integer, sigla As Integer, valorcredito As Double)
+    Public Sub New(codigo As Integer, nome As String, sigla As String, valorcredito As Double)
         Me.Codigo = codigo
         Me.Nome = nome
         Me.Sigla = sigla

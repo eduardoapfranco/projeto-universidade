@@ -59,6 +59,21 @@ Public Class CursoDAL
         End Try
         Return tab
     End Function
+    Public Function selecionar() As DataTable
+        Dim tab As DataTable
+        Try
+            Using cmd As New SqlCommand
+                cmd.CommandText = "select * from Curso"
+                
+                Dim con As New Conexao
+                tab = con.retdadosTab(cmd)
+            End Using
+
+        Catch ex As Exception
+            Throw ex
+        End Try
+        Return tab
+    End Function
 
     'selecionar valor curso (codigo) retorna datatable
     Public Function selecionarValorCurso(codigo As Integer) As DataTable

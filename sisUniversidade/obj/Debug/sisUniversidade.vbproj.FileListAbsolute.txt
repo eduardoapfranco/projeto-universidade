@@ -1,0 +1,72 @@
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\sisUniversidade\obj\Debug\sisUniversidade.vbprojAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\sisUniversidade\obj\Debug\sisUniversidade.Curso.resources
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\sisUniversidade\obj\Debug\sisUniversidade.MatriculaConsulta.resources
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\sisUniversidade\obj\Debug\sisUniversidade.Matricula.resources
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\sisUniversidade\obj\Debug\sisUniversidade.DisciplinaConsulta.resources
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\sisUniversidade\obj\Debug\sisUniversidade.CursoConsulta.resources
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\sisUniversidade\obj\Debug\sisUniversidade.Disciplina.resources
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\sisUniversidade\obj\Debug\sisUniversidade.ProfessorConsulta.resources
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\sisUniversidade\obj\Debug\sisUniversidade.Professor.resources
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\sisUniversidade\obj\Debug\sisUniversidade.Aluno.resources
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\sisUniversidade\obj\Debug\sisUniversidade.AlunoConsulta.resources
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\sisUniversidade\obj\Debug\sisUniversidade.Principal.resources
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\sisUniversidade\obj\Debug\sisUniversidade.Resources.resources
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\sisUniversidade\obj\Debug\sisUniversidade.Pessoa.resources
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\sisUniversidade\obj\Debug\sisUniversidade.PessoaConsulta.resources
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\sisUniversidade\obj\Debug\sisUniversidade.vbproj.GenerateResource.cache
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\sisUniversidade\obj\Debug\sisUniversidade.vbproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\sisUniversidade\obj\Debug\sisUniversidade.TrustInfo.xml
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\sisUniversidade\obj\Debug\sisUniversidade.exe
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\sisUniversidade\obj\Debug\sisUniversidade.xml
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\sisUniversidade\obj\Debug\sisUniversidade.pdb
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\sisUniversidade\bin\Debug\sisUniversidade.exe.config
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\sisUniversidade\bin\Debug\sisUniversidade.exe.manifest
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\sisUniversidade\bin\Debug\sisUniversidade.application
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\sisUniversidade\bin\Debug\sisUniversidade.exe
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\sisUniversidade\bin\Debug\sisUniversidade.pdb
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\sisUniversidade\bin\Debug\sisUniversidade.xml
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\sisUniversidade\bin\Debug\BLL.dll
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\sisUniversidade\bin\Debug\DAL.dll
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\sisUniversidade\bin\Debug\BLL.pdb
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\sisUniversidade\bin\Debug\BLL.xml
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\sisUniversidade\bin\Debug\DAL.pdb
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\sisUniversidade\bin\Debug\DAL.xml
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\sisUniversidade\obj\Debug\sisUniversidade.exe.manifest
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\sisUniversidade\obj\Debug\sisUniversidade.application
+C:\Users\Eduardo\Desktop\Programação\FACU TOLEDO\FACU TOLEDO\4º TERMO\LTP II - Linguagens e Tecnologia de Programação II\tb-sisUniversidade-Rafael-Franco\sisUniversidade\sisUniversidade\obj\Debug\sisUniversidade.vbproj.CopyComplete
+C:\Users\Eduardo\Desktop\Projeto-Universidade\sisUniversidade\bin\Debug\sisUniversidade.exe.config
+C:\Users\Eduardo\Desktop\Projeto-Universidade\sisUniversidade\bin\Debug\sisUniversidade.exe.manifest
+C:\Users\Eduardo\Desktop\Projeto-Universidade\sisUniversidade\bin\Debug\sisUniversidade.application
+C:\Users\Eduardo\Desktop\Projeto-Universidade\sisUniversidade\bin\Debug\sisUniversidade.exe
+C:\Users\Eduardo\Desktop\Projeto-Universidade\sisUniversidade\bin\Debug\sisUniversidade.pdb
+C:\Users\Eduardo\Desktop\Projeto-Universidade\sisUniversidade\bin\Debug\sisUniversidade.xml
+C:\Users\Eduardo\Desktop\Projeto-Universidade\sisUniversidade\bin\Debug\BLL.dll
+C:\Users\Eduardo\Desktop\Projeto-Universidade\sisUniversidade\bin\Debug\DAL.dll
+C:\Users\Eduardo\Desktop\Projeto-Universidade\sisUniversidade\bin\Debug\BLL.pdb
+C:\Users\Eduardo\Desktop\Projeto-Universidade\sisUniversidade\bin\Debug\BLL.xml
+C:\Users\Eduardo\Desktop\Projeto-Universidade\sisUniversidade\bin\Debug\DAL.pdb
+C:\Users\Eduardo\Desktop\Projeto-Universidade\sisUniversidade\bin\Debug\DAL.xml
+C:\Users\Eduardo\Desktop\Projeto-Universidade\sisUniversidade\obj\Debug\sisUniversidade.vbprojAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Projeto-Universidade\sisUniversidade\obj\Debug\sisUniversidade.Curso.resources
+C:\Users\Eduardo\Desktop\Projeto-Universidade\sisUniversidade\obj\Debug\sisUniversidade.MatriculaConsulta.resources
+C:\Users\Eduardo\Desktop\Projeto-Universidade\sisUniversidade\obj\Debug\sisUniversidade.Matricula.resources
+C:\Users\Eduardo\Desktop\Projeto-Universidade\sisUniversidade\obj\Debug\sisUniversidade.DisciplinaConsulta.resources
+C:\Users\Eduardo\Desktop\Projeto-Universidade\sisUniversidade\obj\Debug\sisUniversidade.CursoConsulta.resources
+C:\Users\Eduardo\Desktop\Projeto-Universidade\sisUniversidade\obj\Debug\sisUniversidade.Disciplina.resources
+C:\Users\Eduardo\Desktop\Projeto-Universidade\sisUniversidade\obj\Debug\sisUniversidade.ProfessorConsulta.resources
+C:\Users\Eduardo\Desktop\Projeto-Universidade\sisUniversidade\obj\Debug\sisUniversidade.Professor.resources
+C:\Users\Eduardo\Desktop\Projeto-Universidade\sisUniversidade\obj\Debug\sisUniversidade.Aluno.resources
+C:\Users\Eduardo\Desktop\Projeto-Universidade\sisUniversidade\obj\Debug\sisUniversidade.AlunoConsulta.resources
+C:\Users\Eduardo\Desktop\Projeto-Universidade\sisUniversidade\obj\Debug\sisUniversidade.Principal.resources
+C:\Users\Eduardo\Desktop\Projeto-Universidade\sisUniversidade\obj\Debug\sisUniversidade.Resources.resources
+C:\Users\Eduardo\Desktop\Projeto-Universidade\sisUniversidade\obj\Debug\sisUniversidade.Pessoa.resources
+C:\Users\Eduardo\Desktop\Projeto-Universidade\sisUniversidade\obj\Debug\sisUniversidade.PessoaConsulta.resources
+C:\Users\Eduardo\Desktop\Projeto-Universidade\sisUniversidade\obj\Debug\sisUniversidade.vbproj.GenerateResource.cache
+C:\Users\Eduardo\Desktop\Projeto-Universidade\sisUniversidade\obj\Debug\sisUniversidade.vbproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\Projeto-Universidade\sisUniversidade\obj\Debug\sisUniversidade.TrustInfo.xml
+C:\Users\Eduardo\Desktop\Projeto-Universidade\sisUniversidade\obj\Debug\sisUniversidade.exe.manifest
+C:\Users\Eduardo\Desktop\Projeto-Universidade\sisUniversidade\obj\Debug\sisUniversidade.application
+C:\Users\Eduardo\Desktop\Projeto-Universidade\sisUniversidade\obj\Debug\sisUniversidade.vbproj.CopyComplete
+C:\Users\Eduardo\Desktop\Projeto-Universidade\sisUniversidade\obj\Debug\sisUniversidade.exe
+C:\Users\Eduardo\Desktop\Projeto-Universidade\sisUniversidade\obj\Debug\sisUniversidade.xml
+C:\Users\Eduardo\Desktop\Projeto-Universidade\sisUniversidade\obj\Debug\sisUniversidade.pdb
