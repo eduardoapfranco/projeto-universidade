@@ -25,7 +25,7 @@ Public Class CadastraListaCurso
             html.Append("<th>Nome do Curso</th>")
             html.Append("<th>Sigla do Curso</th>")
             html.Append("<th>Crédito do Curso</th>")
-
+            html.Append("<th>Ações</th>")
 
             html.Append("</tr>")
             html.Append("</thead>")
@@ -34,11 +34,19 @@ Public Class CadastraListaCurso
             'Building the Data rows.
             For Each row As DataRow In dt.Rows
                 html.Append("<tr>")
+                Dim codigo As String
+                codigo = row.Item(0)
+
                 For Each column As DataColumn In dt.Columns
+
                     html.Append("<td>")
                     html.Append(row(column.ColumnName))
                     html.Append("</td>")
                 Next
+                ''query string ?teste=1&nome=rafae
+                html.Append("<td> <a type='button' href='EditarCurso?codigo=" + codigo + "'  class='btn btn-primary'>Editar " + codigo + "</a>")
+
+                html.Append("</td>")
                 html.Append("</tr>")
             Next
             html.Append("</tbody>")

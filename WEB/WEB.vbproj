@@ -131,6 +131,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="About.aspx" />
+    <Content Include="EditarCurso.aspx" />
     <Content Include="CadastraCurso.aspx" />
     <Content Include="ListarCursos.aspx" />
     <Content Include="ListarAluno.aspx" />
@@ -193,6 +194,13 @@
     <Compile Include="About.aspx.vb">
       <DependentUpon>About.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="EditarCurso.aspx.designer.vb">
+      <DependentUpon>EditarCurso.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EditarCurso.aspx.vb">
+      <DependentUpon>EditarCurso.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="CadastraCurso.aspx.designer.vb">
       <DependentUpon>CadastraCurso.aspx</DependentUpon>

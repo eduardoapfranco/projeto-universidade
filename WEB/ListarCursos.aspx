@@ -3,4 +3,5 @@
        <h2><%: Title  %></h2>
     <p>Abaixo está a listagem de todos os Cursos.</p>
     <asp:PlaceHolder ID="PlaceHolder2" runat="server"></asp:PlaceHolder>
+    
 </asp:Content>

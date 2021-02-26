@@ -37,6 +37,51 @@ WEB
  Returns the Asp log object.
  </summary>
 </member>
+<member name="F:WEB.EditarCurso._CodigoCurso">
+<summary>
+CodigoCurso control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:WEB.EditarCurso._NomeCurso">
+<summary>
+NomeCurso control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:WEB.EditarCurso._SiglaCurso">
+<summary>
+SiglaCurso control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:WEB.EditarCurso._ValorCreditoCurso">
+<summary>
+ValorCreditoCurso control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:WEB.EditarCurso._Editar">
+<summary>
+Editar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
 <member name="F:WEB.CadastraCurso._CodigoCurso">
 <summary>
 CodigoCurso control.
